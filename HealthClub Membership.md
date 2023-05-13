@@ -108,7 +108,7 @@ We collectively upheld the XP principle of Respect by ensuring that every team m
 # AWS EC2 with Load Balancer Deployment Screenshots
 
 ## Amazon S3
-Screenshot (557).png
+![Screenshot (557)](https://github.com/varshishermi/testpro/assets/34976337/49c0e248-561e-4918-a8d5-39cacd259f8f)
 
 ## Elastic Beanstalk
 Screenshot (558).png
